@@ -37,6 +37,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Harry",
+      "lastName": "Potter",
+      "id": 4
+    },
+    {
+      "firstName": "July",
+      "lastName": "Smith",
+      "id": 5
     }
   ]
 }
