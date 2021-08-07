@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "Changed Network Card for Server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2021-08-04T06:27:01.071Z",
-      "id": 1
-    },
-    {
       "message": "Hard Drive Failed at WS 002",
       "attention": true,
       "tech": "Harry White",
